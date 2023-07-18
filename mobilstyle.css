@@ -1,0 +1,142 @@
+@media (max-width: 481px) {
+
+
+  .container {
+    max-width: 430px;
+
+
+  }
+
+  header {
+    max-width: 1089px;
+max-height: 685.667px;
+  }
+
+  .head-text {
+    flex-wrap: wrap;
+    max-width: 347px;
+
+  }
+
+  .head-text h1 {
+    width: 346.914px;
+    height: 206.186px;
+    font-size: 40px;
+    font-weight: 800;
+  }
+
+  .head-links {
+    margin-top: 41px;
+    flex-direction: column;
+
+  }
+
+  .visual {
+  flex-direction: column;
+  margin-top:60px;
+  text-align: center;
+
+}
+
+.visu-p1 {
+  transform: rotate(-9.927deg);
+}
+
+.visu-p2{
+  transform: rotate(12.472deg);
+}
+
+.visu-p3 {
+  transform: rotate(-14.812deg);
+}
+
+
+.story-our {
+
+  margin-top: 605px;
+  gap: 70px;
+  flex-direction: column;
+
+}
+
+.respo-we-are {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.story-our h3{
+font-size: 29.922px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+/*  */
+.box-carbon {
+  max-width: 430px;
+  max-height: 983px;
+ padding: 215px 30px 30px 70px;
+ }
+
+ .box-carbon h2 {
+font-size: 35px;
+}
+
+.algo h4 {
+font-size: 25px;
+}
+/*  */
+
+.created {
+  margin-top: 190px;
+  display: flex;
+  flex-direction: column;
+}
+
+.likes-brand {
+  margin-top: 56px;
+  margin-left: 10px;
+  gap: 0px;
+  flex-direction: column;
+
+}
+
+.brand img{
+  width: 352px;
+height: 180.708px;
+
+}
+
+
+.agency-box {
+
+  max-width: 429px;
+max-height: 812px;
+}
+
+.agency-box h3 {
+
+font-size: 35px;
+font-weight: 800;
+margin-left: 0;
+padding-top: 93px;
+
+}
+
+
+.box-ipsum {
+
+  flex-direction: column;
+text-align: center;
+gap: 40px;
+  padding-bottom: 103px;
+}
+
+
+
+
+
+
+
+}
