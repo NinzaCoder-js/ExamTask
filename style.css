@@ -23,12 +23,32 @@ header {
   align-items: center;
 }
 
+.navbar1{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  align-items: center;
+}
+
 .nav-links {
+  display: flex;
+  gap: 64px;
+}
+.nav-links1 {
   display: flex;
   gap: 64px;
 }
 
 .nav-links a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.nav-links1 a {
   text-decoration: none;
   color: black;
   font-size: 18px;

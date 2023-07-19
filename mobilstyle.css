@@ -8,7 +8,7 @@
   }
 
   header {
-    max-width: 1089px;
+    max-width: 100%;
 max-height: 685.667px;
   }
 
@@ -18,11 +18,12 @@ max-height: 685.667px;
 
   }
 
+
   .head-text h1 {
     width: 346.914px;
     height: 206.186px;
     font-size: 40px;
-    font-weight: 800;
+
   }
 
   .head-links {
@@ -133,6 +134,19 @@ gap: 40px;
   padding-bottom: 103px;
 }
 
+.navbar1 {
+  flex-direction: column;
+  gap: 50px;
+}
+
+.nav-links1 {
+  flex-direction: column;
+  gap: 31px;
+}
+
+footer {
+ background: #fff;
+}
 
 
 
